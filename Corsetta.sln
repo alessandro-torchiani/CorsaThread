@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corsetta", "Corsetta\Corsetta.csproj", "{EFCDA45D-7883-4ADC-AD40-406E3DB5F22B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFCDA45D-7883-4ADC-AD40-406E3DB5F22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCDA45D-7883-4ADC-AD40-406E3DB5F22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCDA45D-7883-4ADC-AD40-406E3DB5F22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCDA45D-7883-4ADC-AD40-406E3DB5F22B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2827FD22-69F7-4628-8595-FA178C895C75}
+	EndGlobalSection
+EndGlobal

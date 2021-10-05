@@ -1,0 +1,29 @@
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\bin\Debug\Corsetta.exe.config
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\bin\Debug\Corsetta.exe
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\bin\Debug\Corsetta.pdb
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\Corsetta.csprojAssemblyReference.cache
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\MainWindow.g.cs
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\App.g.cs
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\Corsetta_MarkupCompile.cache
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\Corsetta_MarkupCompile.lref
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\MainWindow.baml
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\Corsetta.g.resources
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\Corsetta.Properties.Resources.resources
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\Corsetta.csproj.GenerateResource.cache
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\Corsetta.exe
+C:\Users\Lorenzo\Desktop\LAVORI _RIPETIZIONI_ALE\Corsetta\Corsetta\obj\Debug\Corsetta.pdb
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\bin\Debug\Corsetta.exe.config
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\bin\Debug\Corsetta.exe
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\bin\Debug\Corsetta.pdb
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\Corsetta.csprojAssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\MainWindow.g.cs
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\App.g.cs
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\Corsetta_MarkupCompile.cache
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\Corsetta_MarkupCompile.lref
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\MainWindow.baml
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\Corsetta.g.resources
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\Corsetta.Properties.Resources.resources
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\Corsetta.csproj.GenerateResource.cache
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\Corsetta.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\Corsetta.exe
+C:\Users\aless\OneDrive\Desktop\Corsetta\Corsetta\obj\Debug\Corsetta.pdb
